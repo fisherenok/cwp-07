@@ -1,0 +1,29 @@
+.container {
+    margin: 30px;
+}
+
+.articles {
+
+}
+
+.article {
+    white-space: wrap;
+    display: block;
+}
+
+.article-title {
+
+}
+
+.article-date {
+
+}
+
+.article-author {
+
+}
+
+.article-text {
+    font-family: Calibri, monospace;
+    font-size: 22px;
+}

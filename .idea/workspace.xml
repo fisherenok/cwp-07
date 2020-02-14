@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="239d4b6d-7fbb-4791-a507-6e8b3d9bf67c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xc7jnDFETd71UOSSNvMgyXzr4W" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fisher\WebstormProjects\node-practical\cwp-07\utils" />
+      <recent name="C:\Users\Fisher\WebstormProjects\node-practical\cwp-07" />
+      <recent name="C:\Users\Fisher\WebstormProjects\node-practical\cwp-07\content" />
+      <recent name="C:\Users\Fisher\WebstormProjects\node-practical\cwp-07\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="scratch.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scratch.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="239d4b6d-7fbb-4791-a507-6e8b3d9bf67c" name="Default Changelist" comment="" />
+      <created>1581333666946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581333666946</updated>
+      <workItem from="1581333668243" duration="1320000" />
+      <workItem from="1581353986977" duration="2782000" />
+      <workItem from="1581494852486" duration="11149000" />
+      <workItem from="1581670469234" duration="154000" />
+      <workItem from="1581670680065" duration="195000" />
+      <workItem from="1581670898713" duration="45000" />
+      <workItem from="1581671046158" duration="733000" />
+      <workItem from="1581672118158" duration="4119000" />
+      <workItem from="1581677310079" duration="893000" />
+      <workItem from="1581678453110" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

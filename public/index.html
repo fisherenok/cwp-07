@@ -1,0 +1,35 @@
+<html lang="en">
+<link rel="stylesheet" href="site.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="index.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Articles</title>
+</head>
+<body>
+<div class="container">
+    <nav class="navbar bg-info" style="margin-bottom: 10px">
+        <h2>Articles</h2>
+        <select class="custom-select" id="field-selector">
+            <option value="id">id</option>
+            <option value="title">title</option>
+            <option value="text">text</option>
+            <option value="date" selected>date</option>
+            <option value="author">author</option>
+        </select>
+        <select class="custom-select" id="order-selector">
+            <option value="asc">asc</option>
+            <option value="desc" selected>desc</option>
+        </select>
+        <button type="button" class="btn btn-default" onclick='window.location.replace("./form.html");'>Add new article</button>
+    </nav>
+    <div id="articles">
+
+    </div>
+    <div id="pagination">
+
+    </div>
+</div>
+</body>
+</html>
