@@ -17,6 +17,7 @@ window.onload = function () {
 function onClick(emitter) {
     xhr = new XMLHttpRequest();
     xhr.open('POST', "./api/articles/readall", true);
+    console.log('Click')
     let request = {
         "sortField" : fieldSelector,
         "sortOrder" : orderSelector,
@@ -28,7 +29,8 @@ function onClick(emitter) {
 
 function onChange() {
     xhr = new XMLHttpRequest();
-    xhr.open('POST', "./api/articles/readall", true);
+    xhr.open('POST', "./api/articles/read", true);
+    console.log('Change')
     let request = {
         "sortField" : fieldSelector,
         "sortOrder" : orderSelector

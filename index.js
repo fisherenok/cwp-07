@@ -16,12 +16,12 @@ const handlers = {
     '/api/comments/create' :  comments.create,
     '/api/comments/delete' :  comments.delete,
     '/api/logs'            :  extras.sendLog,
-    '/'                    : path.index,
-    '/index.html'          : path.index,
-    '/form.html'           : path.form,
-    '/form.js'             : path.formjs,
-    '/index.js'            : path.indejs,
-    '/site.css'            : path.site
+    '/'                    :  path.index,
+    '/index.html'          :  path.index,
+    '/form.html'           :  path.form,
+    '/form.js'             :  path.formjs,
+    '/index.js'            :  path.indejs,
+    '/site.css'            :  path.site
 
 };
 
